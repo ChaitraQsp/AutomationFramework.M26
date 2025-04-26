@@ -2,40 +2,16 @@
 <testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-15T08:48:20 IST" name="Default suite" finished-at="2025-04-15T08:48:29 IST" duration-ms="8852">
+  <suite started-at="2025-04-26T08:47:59 IST" name="Default suite" finished-at="2025-04-26T08:47:59 IST" duration-ms="341">
     <groups>
     </groups>
-    <test started-at="2025-04-15T08:48:20 IST" name="Default test" finished-at="2025-04-15T08:48:29 IST" duration-ms="8852">
-      <class name="inventoryTests.AddLowestPriceProductToCartTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:inventoryTests.AddLowestPriceProductToCartTest@37d4349f]" started-at="2025-04-15T08:48:20 IST" name="bsConfig" finished-at="2025-04-15T08:48:20 IST" duration-ms="8" status="PASS">
+    <test started-at="2025-04-26T08:47:59 IST" name="Default test" finished-at="2025-04-26T08:47:59 IST" duration-ms="341">
+      <class name="practice.SampleJDBC">
+        <test-method signature="executeQueryJDBC()[pri:0, instance:practice.SampleJDBC@6cd28fa7]" started-at="2025-04-26T08:47:59 IST" name="executeQueryJDBC" finished-at="2025-04-26T08:47:59 IST" duration-ms="307" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:inventoryTests.AddLowestPriceProductToCartTest@37d4349f]" started-at="2025-04-15T08:48:20 IST" name="bcConfig" finished-at="2025-04-15T08:48:26 IST" duration-ms="5734" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmConfig()[pri:0, instance:inventoryTests.AddLowestPriceProductToCartTest@37d4349f]" started-at="2025-04-15T08:48:26 IST" name="bmConfig" finished-at="2025-04-15T08:48:26 IST" duration-ms="575" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- bmConfig -->
-        <test-method signature="sample()[pri:0, instance:inventoryTests.AddLowestPriceProductToCartTest@37d4349f]" started-at="2025-04-15T08:48:26 IST" name="sample" finished-at="2025-04-15T08:48:26 IST" duration-ms="13" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- sample -->
-        <test-method is-config="true" signature="amConfig()[pri:0, instance:inventoryTests.AddLowestPriceProductToCartTest@37d4349f]" started-at="2025-04-15T08:48:26 IST" name="amConfig" finished-at="2025-04-15T08:48:27 IST" duration-ms="493" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- amConfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:inventoryTests.AddLowestPriceProductToCartTest@37d4349f]" started-at="2025-04-15T08:48:27 IST" name="acConfig" finished-at="2025-04-15T08:48:29 IST" duration-ms="1980" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:inventoryTests.AddLowestPriceProductToCartTest@37d4349f]" started-at="2025-04-15T08:48:29 IST" name="asConfig" finished-at="2025-04-15T08:48:29 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- asConfig -->
-      </class> <!-- inventoryTests.AddLowestPriceProductToCartTest -->
+        </test-method> <!-- executeQueryJDBC -->
+      </class> <!-- practice.SampleJDBC -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
